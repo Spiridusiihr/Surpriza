@@ -1,0 +1,21 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.surpriza{
+
+min-height: 100vh;
+width: 100%;
+background-image: url(./surpriza.png);
+
+}
+
+
+.spiridusii_hr{
+
+    text-align: center;
+    padding-top: 22%;
+    color: rgba(0, 255, 17, 0.989);
+
+}
